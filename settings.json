@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Tick",
+    "username": "ArvenyaSMP",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "node-sg-free-01.tickhosting.com",
-    "port": 50842,
+    "ip": "191.96.231.14",
+    "port": 11441,
     "version": "",
     "try-creative": false
   },
